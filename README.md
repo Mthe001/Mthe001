@@ -130,9 +130,8 @@ Welcome! I'm a passionate **developer**, **designer**, and **gamer**.
 
 Here are some of the projects I’ve worked on or am currently working on:
 
-- **Project 1**: A web-based application to manage personal tasks. Built using **React** and **Node.js**.
-- **Project 2**: A full-stack **E-commerce** site developed with **Next.js**, **Express.js**, and **MongoDB**.
-- **Project 3**: A **real-time chat application** with **WebSocket** support.
+- [Marathon_240](https://marathon-240.web.app/) A web-based application to manage personal tasks. Built using **React** and **Node.js**.
+- [CrowdCube](https://assginment-10-6b155.web.app) A demo website that developed with **Next.js**, **Express.js**, and **MongoDB**.
 
 Feel free to check them out on my [GitHub](https://github.com/Mthe001).
 
