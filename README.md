@@ -121,10 +121,42 @@ Welcome! I'm a passionate **developer**, **designer**, and **gamer**.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mthe001&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mthe001&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mthe001&theme=radical" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mthe001&theme=radical" alt="Profile Details" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mthe001&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+---
+
+## 💡 Featured Projects
+
+Here are some of the projects I’ve worked on or am currently working on:
+
+- **Project 1**: A web-based application to manage personal tasks. Built using **React** and **Node.js**.
+- **Project 2**: A full-stack **E-commerce** site developed with **Next.js**, **Express.js**, and **MongoDB**.
+- **Project 3**: A **real-time chat application** with **WebSocket** support.
+
+Feel free to check them out on my [GitHub](https://github.com/Mthe001).
+
+---
+
+## 🌍 Open-Source Contributions
+
+I love contributing to open-source projects. Here are some repositories I’ve contributed to:
+
+- **Open Source Project 1**: Contributed by adding new features and improving documentation.
+- **Open Source Project 2**: Fixed bugs and enhanced performance in the backend code.
+
+If you’d like to collaborate on any project, feel free to reach out!
+
+---
+
+## 🔮 Future Goals
+
+Here are some of the goals I have for the future:
+
+- **Build my own SaaS product** and learn the business side of tech.
+- **Collaborate** with more developers worldwide and contribute to impactful open-source projects.
 
 ---
 
