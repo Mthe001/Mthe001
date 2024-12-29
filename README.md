@@ -56,8 +56,7 @@
 ---
 
 ---
-
-## 🐍 What Im doing Last Year 🐍
+## 🐍 Watch My Contribution Snake 🐍
 
 <div align="center">
   <img src="https://github.com/Mthe001/Mthe001/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
