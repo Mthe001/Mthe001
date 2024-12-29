@@ -61,12 +61,12 @@ Welcome! I'm a passionate **developer**, **designer**, and **gamer**.
 ## 🕒 WakaTime Coding Stats
 
 <p align="center">
-  <a href="https://wakatime.com/@mahin">
+  <a href="https://wakatime.com/@018eaad6-cac7-4d24-a2e9-c34a7e4a895c">
     <img src="https://wakatime.com/badge/user/018eaad6-cac7-4d24-a2e9-c34a7e4a895c.svg" alt="WakaTime Profile Badge" />
   </a>
 </p>
 
-*These stats represent my coding activity over time, tracked by [WakaTime](https://wakatime.com/@mahin).*
+*These stats represent my coding activity over time, tracked by [WakaTime](https://wakatime.com/@018eaad6-cac7-4d24-a2e9-c34a7e4a895c).*
 
 ---
 
