@@ -48,7 +48,7 @@
 ## 📈 WakaTime Coding Stats
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/018eaad6-cac7-4d24-a2e9-c34a7e4a895c.svg" alt="WakaTime Stats Badge" />
+  <img src="https://github.com/alanhamlett/alanhamlett/blob/main/README.md" alt="WakaTime Stats Badge" />
 </p>
 
 *These stats represent my coding activity over time, tracked by [WakaTime](https://wakatime.com/@mahin).*
