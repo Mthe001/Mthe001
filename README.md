@@ -45,15 +45,6 @@
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
-[![github](https://img.shields.io/github/followers/Mth001?logo=github&style=plastic)](https://github.com/Mthe001?tab=followers)
-
-
-Add the [@WakaTime](https://github.com/wakatime) badge ([![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)) to your GitHub profile by creating a GitHub repo named `Mthe001/Mthe001` then copy the snippet from your [public WakaTime profile](https://wakatime.com/@mahin).
-
-
----
-
 
 ## 🛠️ Tools I Love
 
