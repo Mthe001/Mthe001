@@ -6,7 +6,7 @@
 
 ---
 
- Welcome ! I'm a passionate **developer**, **designer**, and **gamer**.
+ Welcome! I'm a passionate **developer**, **designer**, and **gamer**.
 
 ---
 
@@ -45,6 +45,17 @@
 
 ---
 
+## 🕒 WakaTime Coding Stats
+
+<p align="center">
+  <a href="https://wakatime.com/@mahin">
+    <img src="https://wakatime.com/badge/user/018eaad6-cac7-4d24-a2e9-c34a7e4a895c.svg" alt="WakaTime Profile Badge" />
+  </a>
+</p>
+
+*These stats represent my coding activity over time, tracked by [WakaTime](https://wakatime.com/@mahin).*
+
+---
 
 ## 🛠️ Tools I Love
 
@@ -62,7 +73,7 @@
 ## 🤝 Let's Connect
 
 - **Twitter**: [Click here](https://x.com/redwan_mahin68)
-- **Email**: [Wanna Collabrate?](mailto:mtheredwanulahque@gmail.com)
+- **Email**: [Wanna Collaborate?](mailto:mtheredwanulahque@gmail.com)
 
 ---
 
@@ -72,12 +83,9 @@
 - 📖 I'm constantly exploring new technologies and staying updated with the latest trends in web development.
 - 🎮 When I'm not coding, you'll find me reading, gaming, or experimenting with new recipes.
 
-
-
-
 ---
 
-## ✨My GitHub Stats
+## ✨ My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mthe001&show_icons=true&theme=radical" alt="Your GitHub Stats" />
