@@ -8,13 +8,18 @@
   <img src="https://user-images.githubusercontent.com/45112301/111751278-0f2de980-88b6-11eb-9edf-d92b9792d65a.gif" alt="wave animation" width="200"/>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 Welcome back! Full time Sleeping Part time Coding -[in Multiverse].  
 
 🌟 **Turning ideas into reality with code.**
 
----
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 ## 🚀 Skills & Technologies
 
@@ -25,7 +30,9 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 ### Frontend
 <p>
@@ -35,7 +42,10 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
 </p>
 
----
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 ### Backend
 <p>
@@ -44,7 +54,11 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
 </p>
 
----
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 ### Other Technologies
 <p>
@@ -53,7 +67,12 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
 </p>
 
----
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
+
 
 ## 🕒 WakaTime Stats
 
@@ -67,7 +86,14 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
 </p>
 
----
+
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 ## 🛠️ Tools I Love
 
@@ -80,7 +106,10 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
 </p>
 
----
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 ## 💻 What I'm Currently Working On
 
@@ -88,7 +117,10 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
 - 📝 **Learning** advanced TypeScript features.
 - 🌍 **Collaborating** with other developers in open-source projects.
 
----
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 ## 🤝 Let's Connect
 
@@ -98,7 +130,10 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
----
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 ## 🌱 Fun Facts About Me
 
@@ -106,7 +141,10 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
 - 📖 I'm constantly exploring new technologies and staying updated with the latest trends in web development.
 - 🎮 When I'm not coding, you'll find me reading, gaming, or experimenting with new recipes.
 
----
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 ## ✨ My  Stats
 
@@ -117,7 +155,11 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mthe001&theme=radical" alt="Profile Details" />
 </div>
 
----
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 ## 💡 Featured Projects
 
@@ -128,7 +170,12 @@ Here is two demo  projects I’ve worked on or am currently working on:
 
 Feel free to check them out on my [GitHub](https://github.com/Mthe001).
 
----
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 ## 🌍 Open-Source Contributions
 
@@ -139,7 +186,10 @@ I love contributing to open-source projects. Here are some repositories I’ve c
 
 If you’d like to collaborate on any project, feel free to reach out!
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
+
 
 ## 🔮 Future Goals
 
@@ -148,7 +198,9 @@ Here are some of the goals I have for the future:
 - **Build my own SaaS product** and learn the business side of tech.
 - **Collaborate** with more developers worldwide and contribute to impactful open-source projects.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
+</p>
 
 ### 🌟 Thank You for Visiting!
 
