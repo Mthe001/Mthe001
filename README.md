@@ -76,7 +76,7 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
 
 ## 🕒 WakaTime Stats
 
-<p align="center">
+<p align="start">
   <a href="https://wakatime.com/@018eaad6-cac7-4d24-a2e9-c34a7e4a895c">
     <img src="https://wakatime.com/badge/user/018eaad6-cac7-4d24-a2e9-c34a7e4a895c.svg" alt="WakaTime Profile Badge" />
   </a>
