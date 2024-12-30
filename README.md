@@ -55,7 +55,7 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
 
 ---
 
-## 🕒 WakaTime Coding Stats
+## 🕒 WakaTime Stats
 
 <p align="center">
   <a href="https://wakatime.com/@018eaad6-cac7-4d24-a2e9-c34a7e4a895c">
@@ -63,7 +63,7 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   </a>
 </p>
 
-*These stats represent my coding activity over time, tracked by [WakaTime](https://wakatime.com/@018eaad6-cac7-4d24-a2e9-c34a7e4a895c).*
+
 
 ---
 
@@ -112,7 +112,7 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
 
 ---
 
-## ✨ My GitHub Stats
+## ✨ My  Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mthe001&show_icons=true&theme=radical" alt="Your GitHub Stats" />
@@ -125,7 +125,7 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
 
 ## 💡 Featured Projects
 
-Here are some of the projects I’ve worked on or am currently working on:
+Here is two demo  projects I’ve worked on or am currently working on:
 
 - [Marathon_240](https://marathon-240.web.app/) A web-based application to manage personal tasks. Built using **React** and **Node.js**.
 - [CrowdCube](https://assginment-10-6b155.web.app) A demo website that developed with **Next.js**, **Express.js**, and **MongoDB**.
