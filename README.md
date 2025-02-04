@@ -1,4 +1,4 @@
-# MThe001 👋
+#MThe001 🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3A80F7&center=true&width=435&lines=Welcome+Back!+;A+Passionate+Developer+%F0%9F%92%BB+;Gamer!+Self_Learner" alt="Typing Animation" />
