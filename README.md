@@ -59,26 +59,14 @@ Welcome back! Full-time Sleeping, Part-time Coding - [in Multiverse].
 
 ---
 
-## 🕒 WakaTime Stats
+## ✨ My Stats
 
-<p align="start">
-  <a href="https://wakatime.com/@018eaad6-cac7-4d24-a2e9-c34a7e4a895c">
-    <img src="https://wakatime.com/badge/user/018eaad6-cac7-4d24-a2e9-c34a7e4a895c.svg" alt="WakaTime Profile Badge" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tools I Love
-
-- **Code Editors**: VS Code, WebStorm  
-- **Design Tools**: Figma, Adobe XD, Pixso  
-- **Version Control**: Git, GitHub  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mthe001&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mthe001&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mthe001&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mthe001&theme=radical" alt="Profile Details" />
+</div>
 
 ---
 
@@ -97,20 +85,6 @@ Welcome back! Full-time Sleeping, Part-time Coding - [in Multiverse].
   <a href="mailto:mtheredwanulahque@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
----
-
-## 💡 Featured Projects
-
-- [Marathon_240](https://marathon-240.web.app/) - A web-based task manager built using **React** and **Node.js**.  
-- [CrowdCube](https://assginment-10-6b155.web.app) - A demo website developed with **Next.js**, **Express.js**, and **MongoDB**.  
-
----
-
-## 🔮 Future Goals
-
-- **Build my own SaaS product** and learn the business side of tech.  
-- **Collaborate** with more developers worldwide and contribute to impactful open-source projects.  
 
 ---
 
