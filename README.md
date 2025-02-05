@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/1YkvVpB4/MThe-001.png" alt="GitHub Profile Banner" width="100%"/>
+  <img src="https://i.ibb.co.com/4R8C5dJh/Screenshot-2025-02-05-120119.png" alt="GitHub Profile Banner" width="100%"/>
 </p>
 
 # MThe001 🚀
