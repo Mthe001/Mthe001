@@ -64,7 +64,6 @@ Welcome back! Full-time Sleeping, Part-time Coding - [in Multiverse].
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mthe001&show_icons=true&theme=radical" alt="Your GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mthe001&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mthe001&theme=radical" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mthe001&theme=radical" alt="Profile Details" />
 </div>
 
