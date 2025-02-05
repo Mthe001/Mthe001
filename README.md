@@ -81,6 +81,14 @@ Feel free to check them out on my [GitHub](https://github.com/Mthe001).
 
 ---
 
+## 💡 Fun Facts About Me
+
+- 🌍 I love contributing to open-source projects and collaborating with developers worldwide.
+- 📖 I'm constantly exploring new technologies and staying updated with the latest trends in web development.
+- 🎮 When I'm not coding, you'll find me reading, gaming, or experimenting with new recipes.
+
+---
+
 ## 💻 What I'm Currently Working On
 
 - 🔭 **Exploring** new technologies for building scalable web applications.  
