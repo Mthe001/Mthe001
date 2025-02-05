@@ -1,4 +1,8 @@
-#MThe001 🚀
+<p align="center">
+  <img src="https://your-banner-image-url.com/banner.png" alt="GitHub Profile Banner" width="100%"/>
+</p>
+
+# MThe001 🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3A80F7&center=true&width=435&lines=Welcome+Back!+;A+Passionate+Developer+%F0%9F%92%BB+;Gamer!+Self_Learner" alt="Typing Animation" />
@@ -8,18 +12,13 @@
   <img src="https://user-images.githubusercontent.com/45112301/111751278-0f2de980-88b6-11eb-9edf-d92b9792d65a.gif" alt="wave animation" width="200"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
+---
 
-Welcome back! Full time Sleeping Part time Coding -[in Multiverse].  
+Welcome back! Full-time Sleeping, Part-time Coding - [in Multiverse].  
 
 🌟 **Turning ideas into reality with code.**
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
+---
 
 ## 🚀 Skills & Technologies
 
@@ -30,9 +29,7 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
+---
 
 ### Frontend
 <p>
@@ -42,10 +39,7 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
 </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
+---
 
 ### Backend
 <p>
@@ -54,11 +48,7 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
+---
 
 ### Other Technologies
 <p>
@@ -67,12 +57,7 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
-
+---
 
 ## 🕒 WakaTime Stats
 
@@ -82,40 +67,28 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   </a>
 </p>
 
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
+---
 
 ## 🛠️ Tools I Love
 
-- **Code Editors**: VS Code, WebStorm
-- **Design Tools**: Figma, Adobe XD, Pixso
-- **Version Control**: Git, GitHub
+- **Code Editors**: VS Code, WebStorm  
+- **Design Tools**: Figma, Adobe XD, Pixso  
+- **Version Control**: Git, GitHub  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
 </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
+---
 
 ## 💻 What I'm Currently Working On
 
-- 🔭 **Exploring** new technologies for building scalable web applications.
-- 📝 **Learning** advanced TypeScript features.
-- 🌍 **Collaborating** with other developers in open-source projects.
+- 🔭 **Exploring** new technologies for building scalable web applications.  
+- 📝 **Learning** advanced TypeScript features.  
+- 🌍 **Collaborating** with other developers in open-source projects.  
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
+---
 
 ## 🤝 Let's Connect
 
@@ -125,77 +98,21 @@ Welcome back! Full time Sleeping Part time Coding -[in Multiverse].
   <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
-
-## 🌱 Fun Facts About Me
-
-- 🌍 I love contributing to open-source projects and collaborating with developers worldwide.
-- 📖 I'm constantly exploring new technologies and staying updated with the latest trends in web development.
-- 🎮 When I'm not coding, you'll find me reading, gaming, or experimenting with new recipes.
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
-
-## ✨ My  Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mthe001&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mthe001&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mthe001&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mthe001&theme=radical" alt="Profile Details" />
-</div>
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
+---
 
 ## 💡 Featured Projects
 
-Here is two demo  projects I’ve worked on or am currently working on:
+- [Marathon_240](https://marathon-240.web.app/) - A web-based task manager built using **React** and **Node.js**.  
+- [CrowdCube](https://assginment-10-6b155.web.app) - A demo website developed with **Next.js**, **Express.js**, and **MongoDB**.  
 
-- [Marathon_240](https://marathon-240.web.app/) A web-based application to manage personal tasks. Built using **React** and **Node.js**.
-- [CrowdCube](https://assginment-10-6b155.web.app) A demo website that developed with **Next.js**, **Express.js**, and **MongoDB**.
-
-Feel free to check them out on my [GitHub](https://github.com/Mthe001).
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
-
-## 🌍 Open-Source Contributions
-
-I love contributing to open-source projects. Here are some repositories I’ve contributed to:
-
-- **Open Source Project 1**: Contributed by adding new features and improving documentation.
-- **Open Source Project 2**: Fixed bugs and enhanced performance in the backend code.
-
-If you’d like to collaborate on any project, feel free to reach out!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
-
+---
 
 ## 🔮 Future Goals
 
-Here are some of the goals I have for the future:
+- **Build my own SaaS product** and learn the business side of tech.  
+- **Collaborate** with more developers worldwide and contribute to impactful open-source projects.  
 
-- **Build my own SaaS product** and learn the business side of tech.
-- **Collaborate** with more developers worldwide and contribute to impactful open-source projects.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" />
-</p>
+---
 
 ### 🌟 Thank You for Visiting!
 
