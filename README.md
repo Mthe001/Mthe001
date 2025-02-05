@@ -70,6 +70,17 @@ Welcome back! Full-time Sleeping, Part-time Coding - [in Multiverse].
 
 ---
 
+## 💻 Featured Projects
+
+Here are two demo projects I’ve worked on or am currently working on:
+
+- [Marathon_240](https://marathon-240.web.app/) - A web-based application to manage personal tasks. Built using **React** and **Node.js**.
+- [CrowdCube](https://assginment-10-6b155.web.app) - A demo website developed with **Next.js**, **Express.js**, and **MongoDB**.
+
+Feel free to check them out on my [GitHub](https://github.com/Mthe001).
+
+---
+
 ## 💻 What I'm Currently Working On
 
 - 🔭 **Exploring** new technologies for building scalable web applications.  
